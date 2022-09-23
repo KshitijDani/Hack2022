@@ -1,0 +1,98 @@
+{
+  "doctors": [
+    {
+      "id": "1",
+      "disease": "heart",
+      "name": "Sana Bhatt",
+      "hospital": "Fortis",
+      "specialization": "cardiology",
+      "availability": [
+        {
+          "date": "Thu, 26 Oct 2022",
+          "timeslots": [
+            {
+              "time": "6AM - 7AM",
+              "status": "not-booked"
+            },
+            {
+              "time": "7AM - 8AM",
+              "status": "booked"
+            }
+          ],
+          "fees": "500",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F02%2F60%2F04%2F09%2F360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddoctor&tbnid=Q8k6nVWxU9t-PM&vet=12ahUKEwjdmtK6hKP6AhXFi9gFHWbYDDEQMygCegUIARDLAQ..i&docid=LmHnpzStd_SLnM&w=540&h=360&q=doctors%20stock%20images&ved=2ahUKEwjdmtK6hKP6AhXFi9gFHWbYDDEQMygCegUIARDLAQ"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Megan B",
+      "hospital": "Max",
+      "disease": "cancer",
+      "specialization": "oncology",
+      "availability": [
+        {
+          "date": "Thu, 26 Oct 2022",
+          "timeslots": [
+            {
+              "time": "6AM - 7AM",
+              "status": "booked"
+            },
+            {
+              "time": "7AM - 8AM",
+              "status": "not-booked"
+            }
+          ],
+          "fees": "500",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F02%2F60%2F04%2F09%2F360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddoctor&tbnid=Q8k6nVWxU9t-PM&vet=12ahUKEwjdmtK6hKP6AhXFi9gFHWbYDDEQMygCegUIARDLAQ..i&docid=LmHnpzStd_SLnM&w=540&h=360&q=doctors%20stock%20images&ved=2ahUKEwjdmtK6hKP6AhXFi9gFHWbYDDEQMygCegUIARDLAQ"
+        }
+      ]
+    },{
+      "id": "3",
+      "name": "Max C",
+      "hospital": "Wock",
+      "disease": "cancer",
+      "specialization": "oncology",
+      "availability": [
+        {
+          "date": "Thu, 26 Oct 2022",
+          "timeslots": [
+            {
+              "time": "12PM - 1PM",
+              "status": "not-booked"
+            },
+            {
+              "time": "1PM - 2PM",
+              "status": "not-booked"
+            }
+          ],
+          "fees": "500",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F02%2F60%2F04%2F09%2F360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddoctor&tbnid=Q8k6nVWxU9t-PM&vet=12ahUKEwjdmtK6hKP6AhXFi9gFHWbYDDEQMygCegUIARDLAQ..i&docid=LmHnpzStd_SLnM&w=540&h=360&q=doctors%20stock%20images&ved=2ahUKEwjdmtK6hKP6AhXFi9gFHWbYDDEQMygCegUIARDLAQ"
+        }
+      ]
+    },{
+      "id": "4",
+      "name": "Megan B",
+      "hospital": "Max",
+      "disease": "cancer",
+      "specialization": "oncology",
+      "availability": [
+        {
+          "date": "Thu, 26 Oct 2022",
+          "timeslots": [
+            {
+              "time": "3PM - 4PM",
+              "status": "not-booked"
+            },
+            {
+              "time": "4PM - 5PM",
+              "status": "not-booked"
+            }
+          ],
+          "fees": "500",
+          "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Ft4.ftcdn.net%2Fjpg%2F02%2F60%2F04%2F09%2F360_F_260040900_oO6YW1sHTnKxby4GcjCvtypUCWjnQRg5.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Ddoctor&tbnid=Q8k6nVWxU9t-PM&vet=12ahUKEwjdmtK6hKP6AhXFi9gFHWbYDDEQMygCegUIARDLAQ..i&docid=LmHnpzStd_SLnM&w=540&h=360&q=doctors%20stock%20images&ved=2ahUKEwjdmtK6hKP6AhXFi9gFHWbYDDEQMygCegUIARDLAQ"
+        }
+      ]
+    }
+  ]
+}
